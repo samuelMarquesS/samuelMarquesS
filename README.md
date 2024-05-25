@@ -4,12 +4,13 @@ Contato: (31) 998503782
 Email: samuelmarquessilva45@gmail.com 
 
 - Meu principal objetivo é aprender o máximo possível sobre programação e conseguir uma vaga de estágiário na área de tecnologia para ser inserido no mercado de trabalho.
-- Atualmente atuo como auxiliar de planejamento e controle da produção no setor da logística, onde desenvolvo guias de produção através do Excel e sistema TOTVS. Além disso, tenho conhecimento no processo de emissão de nota fiscal da área de expedição e controle de estoque.
 - Estou cursando o primeiro semestre em Análise e Desenvolvimento de Sistemas pela Pntifícia Universidade Católica de Minas Gerais Campus Betim.
+
+- Atualmente atuo como auxiliar de planejamento e controle da produção no setor da logística, onde desenvolvo guias de produção através do Excel e sistema TOTVS. Além disso, tenho conhecimento no processo de emissão de nota fiscal da área de expedição e controle de estoque.
 
 Conhecimento em Sistema TOTVS: 
 - Emissão de nota fiscal.
-- Controle e apontamento das Ordens de Produção
+- Controle e apontamento das Ordens de Produção.
 - Treinamento em MRP (Manufacturing Resource Planning) .
 - atualização no cadastro de produtos e saldos em estoque. 
 
