@@ -2,6 +2,7 @@ Brasileiro, 19 anos.
 Nome: Samuel Marques Silva 
 Contato: (31) 998503782 
 Email: samuelmarquessilva45@gmail.com 
+
 - Meu principal objetivo é aprender o máximo possível sobre programação e conseguir uma vaga de estágiário na área de tecnologia para ser inserido no mercado de trabalho.
 - Estou cursando o primeiro semestre em Análise e Desenvolvimento de Sistemas pela Pntifícia Universidade Católica de Minas Gerais Campus Betim. 
 
